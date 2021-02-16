@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="style.css">
+  <title>MODERN STYLISH Login Form</title>
+  <img src="https://www.javatpoint.com/images/nature-1.jpg" alt="image" style="width:1000px">  
+  <h1>
+  <img src="group1.jpg" alt="Good Morning Friends"/>  
+  </h1> 
+</head>
+<body>
+    <a href="https://www.javatpoint.com/images/nature-1.jpg"><img src="robot.jpg" height="1000" width="1000"></a> 
+     <img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">  
+  <div class="login-form-wrap">
+    <div class="left-section">
+      <div class="title">
+        <h1>LOOSER!</h1>
+        <h2>DEVIL</h2>
+        <p>ALONE account!</p>
+      </div>
+      <div class="form">
+        <form class="" action="index.html" method="post">
+          <input type="text" placeholder="Email">
+          <input type="text" placeholder="Password">
+          <span class="floatleft"><input type="checkbox"> Remember me</span>
+          <span class="floatright"><a href="#">Forgot Password?</a></span>
+          <input type="submit" value="Sign In">
+        </form>
+        <div class="create-account">
+          Don,t have an Account? <a href="#">Create</a>
+        </div>
+      </div>
+    </div>
+    <div class="right-section">
+      <div class="welcome-text">
+        <h1>Welcome Back</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
